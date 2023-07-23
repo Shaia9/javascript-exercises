@@ -11,6 +11,6 @@ const sumAll = function (min, max) {
     sum += i;
   }
   return sum;
-};
+}
 
 module.exports = sumAll;
